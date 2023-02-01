@@ -182,7 +182,7 @@ int main()
 	scanf("%d %d %d", &a, &b, &c);
 	if (a>b)
 	{
-		if (a>b)
+		if (a>c)
 			printf("the largest value is %d\n", a);
 		else
 			printf("the largest value is %d\n", c);
