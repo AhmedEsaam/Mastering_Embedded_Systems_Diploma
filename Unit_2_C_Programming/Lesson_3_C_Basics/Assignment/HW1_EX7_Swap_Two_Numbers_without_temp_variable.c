@@ -27,9 +27,9 @@ int main(int argc, char **argv)
 	fflush(stdout);
 	scanf("%d", &b);
 
-	b = a^b;
-	a = b^a;
-	b = b^a;
+	b = a ^ b;
+	a = b ^ a;
+	b = b ^ a;
 
 	printf("\nAfter swapping, value of a = %d\n", a);
 	printf("After swapping, value of b = %d\n\n", b);
@@ -48,9 +48,9 @@ int main(int argc, char **argv)
 	fflush(stdout);
 	scanf("%f", &bb);
 
-	bb = aa+bb;  /* sum */
-	aa = bb-aa;  /* -> (a+b)-a = b */
-	bb = bb-aa;  /* -> (a+b)-b = a */
+	bb = aa + bb;  /* sum */
+	aa = bb - aa;  /* -> (a+b)-a = b */
+	bb = bb - aa;  /* -> (a+b)-b = a */
 
 	printf("\nAfter swapping, value of a = %f\n", aa);
 	printf("After swapping, value of b = %f\n", bb);
