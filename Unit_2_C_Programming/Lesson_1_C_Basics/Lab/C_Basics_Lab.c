@@ -19,7 +19,6 @@
 int main()
 {
 	/* Implicit */
-
 	int x = 5;
 	float y = 2.0;
 	if (x/y == 2)
@@ -34,14 +33,12 @@ int main()
 	/*-------------------------*/
 
 	/* Explicit */
-
 	int xx = 0xffffff10;
 	char yy = (char)xx;
 	printf("%d\n", yy);  /* yy = 0x10 = 16 */
 
 	return 0;
 }
-
 #endif /*TYPE_CONVERSIONS*/
 
 
@@ -61,7 +58,6 @@ int main()
 	int x = -124;
 	/*printf("%u\n",x);*/ /*if you used %u with -ve number: it will yield a wrong answer*/
 	printf("%d\r\n",x);
-
 	/*---------------------------------*/
 
 	int xx = 26;
@@ -76,7 +72,6 @@ int main()
 
 	return 0;
 }
-
 #endif /*INPUT_OUTPUT*/
 
 
@@ -116,7 +111,6 @@ int main()
 
 	return 0;
 }
-
 #endif /* PRINTF_TRICKS */
 
 
@@ -126,8 +120,8 @@ int main()
 int main()
 {
 	printf("%d\r\n", (-15) || 0); /* prints 1 */
-
 	/*----------------------------------*/
+
 	/* IMPORTANT! */
 	char x = 1, y = 0;
 	printf("%d\n", x-- || ++y); /* What is the value of y after this line? */
@@ -135,11 +129,10 @@ int main()
 
 	return 0;
 }
-
 #endif /* OPERATORS */
 
 
-/*...................................// Conditioning \\...................................*/
+/*...................................// Conditions \\...................................*/
 
 /*#define NESTED_IF_CONDITIONS*/
 #ifdef NESTED_IF_CONDITIONS
@@ -175,7 +168,6 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
 #endif /* NESTED_IF_CONDITIONS */
 
 
@@ -205,7 +197,6 @@ int main()
 
 	return 0;
 }
-
 #endif /* NESTED_IF_2 */
 
 
@@ -225,7 +216,6 @@ int main()
 
 	return 0;
 }
-
 #endif /* LINE_CONDITION */
 
 
@@ -283,7 +273,6 @@ int main()
 
 	return 0;
 }
-
 #endif /* SWITCH_STATEMENT */
 
 
@@ -326,7 +315,6 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
 #endif /* PREFIX_POSTFIX */
 
 
@@ -382,7 +370,6 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
 #endif /* FOR_LOOPS */
 
 
@@ -409,7 +396,6 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
 #endif /* FOR_LOOPS_2 */
 
 
@@ -437,7 +423,6 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
 #endif /* WHILE_LOOP */
 
 
@@ -468,7 +453,6 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
 #endif /* WHILE_LOOP_2 */
 
 
@@ -494,7 +478,6 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
 #endif /* DO_WHILE_LOOP */
 
 
@@ -527,7 +510,6 @@ evaluate_again:
 
 	return 0;
 }
-
 #endif /* GOTO_STATEMENT */
 
 
@@ -550,7 +532,6 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
 #endif /* BREAK_STATEMENT */
 
 
@@ -573,7 +554,6 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
 #endif /* CONTINUE_STATEMENT */
 
 
@@ -594,6 +574,5 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
 #endif /* NESTED_LOOPS */
 
