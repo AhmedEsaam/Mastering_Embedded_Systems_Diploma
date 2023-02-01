@@ -136,7 +136,7 @@ int main()
 #endif /* OPERATORS */
 
 
-/*...................................// Conditioning \\...................................*/
+/*...................................// Conditions \\...................................*/
 
 /*#define NESTED_IF_CONDITIONS*/
 #ifdef NESTED_IF_CONDITIONS
