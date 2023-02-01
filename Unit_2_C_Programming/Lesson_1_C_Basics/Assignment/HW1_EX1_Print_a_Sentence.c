@@ -4,7 +4,7 @@
  *
  * Created on	: Feb 1, 2023
  * Author    	: Ahmed Essam El-Mogy
- * Description	: Unit 2. C Programming >> Lesson 1. C Basics >> Assignment
+ * Description	: Unit 2. C Programming >> Lesson 3. C Basics >> Assignment
  *  	          >> Homework 1 >> EX1 - Print a Sentence
  * C Standard	: ANSI C
  * ----------------------------------------------------------------------------------
@@ -18,3 +18,5 @@ int main(int argc, char **argv)
 
 	return 0;
 }
+
+
