@@ -1,6 +1,6 @@
 /*
  * ----------------------------------------------------------------------------------
- * Name      	: HW1_EX1_Print_a_Sentence.c
+ * Name      	: HW1_EX7_Swap_Two_Numbers_without_temp_variable.c
  *
  * Created on	: Feb 1, 2023
  * Author    	: Ahmed Essam El-Mogy
@@ -48,9 +48,9 @@ int main(int argc, char **argv)
 	fflush(stdout);
 	scanf("%f", &bb);
 
-	bb = aa+bb; /* sum */
-	aa = bb-aa; /* -> (a+b)-a = b */
-	bb = bb-aa; /* -> (a+b)-b = a */
+	bb = aa+bb;  /* sum */
+	aa = bb-aa;  /* -> (a+b)-a = b */
+	bb = bb-aa;  /* -> (a+b)-b = a */
 
 	printf("\nAfter swapping, value of a = %f\n", aa);
 	printf("After swapping, value of b = %f\n", bb);
