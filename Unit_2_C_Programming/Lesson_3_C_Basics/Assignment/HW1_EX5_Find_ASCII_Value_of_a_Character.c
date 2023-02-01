@@ -1,6 +1,6 @@
 /*
  * ----------------------------------------------------------------------------------
- * Name      	: HW1_EX1_Print_a_Sentence.c
+ * Name      	: HW1_EX5_Find_ASCII_Value_of_a_Character.c
  *
  * Created on	: Feb 1, 2023
  * Author    	: Ahmed Essam El-Mogy
