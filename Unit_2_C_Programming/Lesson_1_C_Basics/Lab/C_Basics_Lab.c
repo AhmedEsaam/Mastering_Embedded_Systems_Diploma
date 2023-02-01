@@ -5,7 +5,7 @@
  * Created on	:	Jan 29, 2023
  * Author    	:	Ahmed Essam El-Mogy
  * Description	:	Unit 2. C Programming >> Lesson 1. C Basics >> Lab
- * 					Practice lecture codes and notes
+ *          	    Practice lecture codes and notes
  * C Standard	:	ANSI C
  * ----------------------------------------------------------------------------------
  */
