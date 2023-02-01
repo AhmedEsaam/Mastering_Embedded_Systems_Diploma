@@ -1,12 +1,12 @@
 /*
  * ----------------------------------------------------------------------------------
- * Name      	:	C_Basics_Lab.c
+ * Name      	: C_Basics_Lab.c
  *
- * Created on	:	Jan 29, 2023
- * Author    	:	Ahmed Essam El-Mogy
- * Description	:	Unit 2. C Programming >> Lesson 1. C Basics >> Lab
- *          	    Practice lecture codes and notes
- * C Standard	:	ANSI C
+ * Created on	: Jan 29, 2023
+ * Author    	: Ahmed Essam El-Mogy
+ * Description	: Unit 2. C Programming >> Lesson 1. C Basics >> Lab
+ *           	  Practice lecture codes and notes
+ * C Standard	: ANSI C
  * ----------------------------------------------------------------------------------
  */
 
@@ -236,7 +236,7 @@ int main()
 
 int main()
 {
-	/*                         // *** Switch Statements *** \\
+	/*                             // *** Switch Statements *** \\
 	 * Pros:
 	 * 	• Faster -in run time- than 'if conditions':
 	 * 		-> Switches use lookup tables. So, it doesn't need to iterate through all cases.
