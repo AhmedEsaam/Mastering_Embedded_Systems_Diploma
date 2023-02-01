@@ -1,6 +1,6 @@
 /*
  * ----------------------------------------------------------------------------------
- * Name      	: HW1_EX1_Print_a_Sentence.c
+ * Name      	: HW1_EX6_Swap_Two_Numbers.c
  *
  * Created on	: Feb 1, 2023
  * Author    	: Ahmed Essam El-Mogy
