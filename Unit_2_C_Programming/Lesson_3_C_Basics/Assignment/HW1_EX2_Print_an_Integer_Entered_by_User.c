@@ -1,11 +1,11 @@
 /*
  * ----------------------------------------------------------------------------------
- * Name      	: HW1_EX1_Print_a_Sentence.c
+ * Name      	: HW1_EX2_Print_an_Integer_Entered_by_User.c
  *
  * Created on	: Feb 1, 2023
  * Author    	: Ahmed Essam El-Mogy
  * Description	: Unit 2. C Programming >> Lesson 3. C Basics >> Assignment
- *  	          >> Homework 1 >> EX3 - Print an Integer Entered by User
+ *  	          >> Homework 1 >> EX2 - Print an Integer Entered by User
  * C Standard	: ANSI C
  * ----------------------------------------------------------------------------------
  */
