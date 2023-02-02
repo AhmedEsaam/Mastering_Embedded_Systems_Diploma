@@ -15,14 +15,27 @@
 
 int main(int argc, char **argv)
 {
-	char c;
-	printf("Enter a character: ");
-	fflush(stdout);
-	scanf("%c", &c);
+	do
+	{
+		char c;
+		printf("Enter a character: ");
+		fflush(stdin); fflush(stdout);
+		scanf("%c", &c);
 
-	printf("%c is %s.\n", c,
-			(isalpha(c))? "an alphabet" : "not an alphabet"
-	);
+		printf("%c is %s.\n", c,
+				isalpha(c)? "an alphabet" : "not an alphabet"
+		);
+
+		/* Or: */
+		if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
+			printf("%c is an alphabet.\n\n", c);
+		else
+			printf("%c is not an alphabet.\n\n", c);
+
+		printf("Another entry? (y/n): ");
+		fflush(stdin); fflush(stdout);
+	}
+	while(getchar()=='y');
 
 	return 0;
 }
