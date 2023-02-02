@@ -40,6 +40,7 @@ int main(int argc, char **argv)
 				result = a / b;
 				break;
 			default:
+				printf("Wrong entry.\n");
 				break;
 		}
 		printf("%.2f %c %.2f = %.2f\n\n", a, op, b, result);
