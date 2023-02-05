@@ -26,7 +26,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma/tree/main/Unit_2_C_Programming">
-      Unit 2: C Programming	&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;<img src="https://progress-bar.dev/38/?title=In Progress&color=CD5888" alt="Description for image">
+      Unit 2: C Programming	&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; <img src="https://progress-bar.dev/38/?title=In Progress&color=CD5888" alt="Description for image">
     </a>
     
   </summary>
