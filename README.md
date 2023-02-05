@@ -98,7 +98,7 @@ All files are written in `ANSI C Standard` (C89).
 <!-- ========================================================================== 2nd Term ======================================================================= -->
 
 ### Second Term  &emsp;
-<img src="https://progress-bar.dev/0/?" alt="Description for image">   <!-- /26 -->
+<img src="https://progress-bar.dev/0/?">   <!-- /26 -->
 
 <details>
   <summary>
