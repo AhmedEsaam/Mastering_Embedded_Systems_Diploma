@@ -10,7 +10,8 @@ All files are written in `ANSI C Standard` (C89).
 
 ## Contents
 
-### First Term &emsp;&emsp;&ensp;<img src="https://progress-bar.dev/21/?title=In Progress&color=CD5888" alt="Description for image">  <!-- /19 -->
+### First Term &emsp;&emsp;&ensp;
+<img src="https://progress-bar.dev/21/?title=In Progress&color=CD5888" alt="Description for image">  <!-- /19 -->
 
 <details>
   <summary>
@@ -96,7 +97,8 @@ All files are written in `ANSI C Standard` (C89).
 
 <!-- ========================================================================== 2nd Term ======================================================================= -->
 
-### Second Term  &emsp;<img src="https://progress-bar.dev/0/?" alt="Description for image">   <!-- /26 -->
+### Second Term  &emsp;
+<img src="https://progress-bar.dev/0/?" alt="Description for image">   <!-- /26 -->
 
 <details>
   <summary>
@@ -206,7 +208,8 @@ All files are written in `ANSI C Standard` (C89).
 
 <!-- ========================================================================== 3rd Term ======================================================================= -->
 
-### Third Term &emsp;&ensp;&nbsp; <img src="https://progress-bar.dev/0/?" alt="Description for image"> <!-- /? -->
+### Third Term &emsp;&ensp;&nbsp; 
+<img src="https://progress-bar.dev/0/?" alt="Description for image"> <!-- /? -->
 
 <details>
   <summary>
