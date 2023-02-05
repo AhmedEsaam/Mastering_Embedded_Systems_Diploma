@@ -6,7 +6,7 @@ The [Mastering Embedded Systems Diploma](https://www.learn-in-depth.com/) under 
 
 This repository acts as a tracker for my progress throughout the diploma by including all `Assignments`, `Labs`, `Projects`, and other `Practice Codes`.
 
-All files are written in `ANSI C Standard` (C89).
+All files are written in ANSI C Standard `C89`.
 
 ## Contents
 
