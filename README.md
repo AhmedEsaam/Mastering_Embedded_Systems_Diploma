@@ -15,9 +15,9 @@ All files are written in `ANSI C Standard` (C89).
 
 <details>
   <summary>
-    <!-- <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma"> -->
+    <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
       Unit 1: Diploma Prerequisites &emsp;&emsp;&emsp;&nbsp; <img src="https://progress-bar.dev/100/?title=Done" alt="Description for image">
-    <!-- </a> -->
+    </a>
     
   </summary>
 
