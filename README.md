@@ -11,12 +11,12 @@ All files are written in `ANSI C Standard` (C89).
 ## Contents
 
 ### First Term &emsp;&emsp;&ensp;
-<img src="https://progress-bar.dev/21/?title=In Progress&color=CD5888" alt="Description for image">  <!-- /19 -->
+<img src="https://progress-bar.dev/21/?title=In Progress&color=CD5888">  <!-- /19 -->
 
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 1: Diploma Prerequisites &emsp;&emsp;&emsp;&nbsp; <img src="https://progress-bar.dev/100/?title=Done" alt="Description for image">
+      Unit 1: Diploma Prerequisites &emsp;&emsp;&emsp;&nbsp; <img src="https://progress-bar.dev/100/?title=Done">
     </a>
     
   </summary>
@@ -26,7 +26,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma/tree/main/Unit_2_C_Programming">
-      Unit 2: C Programming	&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; <img src="https://progress-bar.dev/38/?title=In Progress&color=CD5888" alt="Description for image">
+      Unit 2: C Programming	&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; <img src="https://progress-bar.dev/38/?title=In Progress&color=CD5888">
     </a>
     
   </summary>
@@ -47,7 +47,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 3: Embedded C &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 3: Embedded C &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -65,7 +65,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 4: System Architecture &emsp;&emsp;&emsp;&emsp; <img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 4: System Architecture &emsp;&emsp;&emsp;&emsp; <img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -81,7 +81,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 5: First Term Final	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 5: First Term Final	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -103,7 +103,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 6: MCU Fundamentals &emsp;&emsp;&emsp;&emsp;&nbsp <img src="https://progress-bar.dev/0/?" alt="Description for image"> 
+      Unit 6: MCU Fundamentals &emsp;&emsp;&emsp;&emsp;&nbsp <img src="https://progress-bar.dev/0/?"> 
     </a>
     
   </summary>
@@ -120,7 +120,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 7: MCU Essential Peripherals	&emsp;&ensp; <img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 7: MCU Essential Peripherals	&emsp;&ensp; <img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -137,7 +137,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 8: MCU Interfacing	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 8: MCU Interfacing	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -157,7 +157,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 9: MCU Timers/ADC &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 9: MCU Timers/ADC &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -172,7 +172,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 10: Software Engineering	&emsp;&emsp;&emsp; <img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 10: Software Engineering	&emsp;&emsp;&emsp; <img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -188,7 +188,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 11: Second Term Final	&emsp;&emsp;&emsp;&emsp;&ensp; <img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 11: Second Term Final	&emsp;&emsp;&emsp;&emsp;&ensp; <img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -214,7 +214,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 12: Advanced Topics	&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 12: Advanced Topics	&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -230,7 +230,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 13: Mastering CAN Protocol	&emsp;&emsp;<img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 13: Mastering CAN Protocol	&emsp;&emsp;<img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -246,7 +246,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 14: ARM & OS	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 14: ARM & OS	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -262,7 +262,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 15: RTOS Basics	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 15: RTOS Basics	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -278,7 +278,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 16: AUTOSAR Basics	&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 16: AUTOSAR Basics	&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
@@ -294,7 +294,7 @@ All files are written in `ANSI C Standard` (C89).
 <details>
   <summary>
     <a href="https://github.com/AhmedEsaam/Mastering_Embedded_Systems_Diploma">
-      Unit 17: Embedded Linux Basics	&emsp;&emsp;&nbsp; <img src="https://progress-bar.dev/0/?" alt="Description for image">
+      Unit 17: Embedded Linux Basics	&emsp;&emsp;&nbsp; <img src="https://progress-bar.dev/0/?">
     </a>
     
   </summary>
