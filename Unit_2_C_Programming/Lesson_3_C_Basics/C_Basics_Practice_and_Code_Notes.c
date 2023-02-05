@@ -24,18 +24,22 @@ int main()
 	if (x/y == 2)
 		printf("int/float >>> int\n");
 	else if (x/y == 2.5) /*right*/
-		printf("int/float >>> float\n");
+		printf("int/float >>> float\n\n");
 	/*-------------------------*/
 	/*IMPORTANT!*/
 	float a;
 	a = 9/2;  /* 9/2 = int/int = 4   a = 4.000000 */
-	printf("%f\n", a);
+	printf("%f\n\n", a);
+	/*-------------------------*/
+	int i = 5, j = 10, k = 15;
+	printf("%d \n", sizeof(k /= i + j));
+	printf("%d \n\n", k);
 	/*-------------------------*/
 
 	/* Explicit */
 	int xx = 0xffffff10;
 	char yy = (char)xx;
-	printf("%d\n", yy);  /* yy = 0x10 = 16 */
+	printf("%d\n\n", yy);  /* yy = 0x10 = 16 */
 
 	return 0;
 }
@@ -113,9 +117,31 @@ int main()
 }
 #endif /* PRINTF_TRICKS */
 
+/*#define ARITHMETIC_OPERATORS*/
+#ifdef ARITHMETIC_OPERATORS
 
-/*#define OPERATORS*/
-#ifdef OPERATORS
+int main(int argc, char **argv)
+{
+	int g1 = 5 % (-3);		/* =  2 */
+	int g2 = (-5) % 3;		/* = -2 */
+	int g3 = (-5) % (-3);	/* = -2 */
+	printf("%d %d %d\n", g1, g2, g3);
+
+	g1 = 5 / (-3); 			/* = -1 */
+	g2 = (-5) / 3;			/* = -1 */
+	g3 = (-5) / (-3);		/* =  1 */
+	printf("%d %d %d\n", g1, g2, g3);
+
+	/* The sign of the result of the remainder operation (according to c99)
+	 *	 is the same as the dividend's one : (dividend/divisor) */
+
+	return 0;
+}
+
+#endif /* ARITHMETIC_OPERATORS */
+
+/*#define LOGIC_OPERATORS*/
+#ifdef LOGIC_OPERATORS
 
 int main()
 {
@@ -126,10 +152,17 @@ int main()
 	char x = 1, y = 0;
 	printf("%d\n", x-- || ++y); /* What is the value of y after this line? */
 	printf("y = %d\n", y); /* y still = 0, As x was 1 so the right side of || haven't been executed. */
+	/*----------------------------------*/
+
+	int i = 1, j = 5;
+	int x = (0 && (++j));
+	/* execution will be from left to right
+	 * -> as if left side = 0 then there is no need to execute the right side */
+	printf("x = %d, i = %d, j = %d\n", x, i, j);
 
 	return 0;
 }
-#endif /* OPERATORS */
+#endif /* LOGIC_OPERATORS */
 
 
 /*...................................// Conditions \\...................................*/
@@ -312,6 +345,15 @@ int main(int argc, char **argv)
 	 * 		-> ex. x++; // order doesn't have an effect.
 	 * 		-> We will have the final value of x in the next line anyway.
 	 */
+
+	/*............. Note ...........*/
+	int a = 1;
+	int b = 0;
+	b = a++ + a++;
+	/* '+' operator doesn't have standard defined order of evaluation
+	 * So, it is mainly Compiler Dependent*/
+
+	printf("%d %d\n", a, b);
 
 	return 0;
 }
