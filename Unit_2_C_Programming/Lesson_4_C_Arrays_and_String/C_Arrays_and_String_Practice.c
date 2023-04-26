@@ -30,7 +30,9 @@ int main(int argc, char **argv)
 	printf("text\n");
 
 	printf("%s\n", x);
-	printf("%s\n", &x[0]); /* you have to pass the address */
+	/* %s prints till it reaches NULL '\0' */
+
+	printf("%s\n", &x[0]);  /* you have to pass the address */
 	printf("%s\n", &x[1]);
 	printf("%s\n", &x[3]);
 
